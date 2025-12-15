@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Домашняя.md",
-                "mode": "preview",
-                "source": false
+                "file": "Мои проекты/NoStress design/Промпт.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Домашняя"
+              "title": "Промпт"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "9fc4a2ca9151e51b",
@@ -193,25 +194,69 @@
       "workspaces:Пространства": false,
       "bases:Создать новую базу": false,
       "homepage:Open homepage": false,
-      "sheet-plus:Создать Excel Файл": false
+      "sheet-plus:Создать Excel Файл": false,
+      "card-board:CardBoard": false
     }
+  },
+  "floating": {
+    "id": "ceb540f39b647cb9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ae2ee2a495cd84ac",
+        "type": "window",
+        "children": [
+          {
+            "id": "0a42c7b2e6959e2c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8d3f28bdbcf70a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Мои проекты/NoStress design/Правки.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Правки"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1080,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Мои проекты/NoStress design/Правки.md",
+    "Мои проекты/NoStress design/Промпт.md",
+    "Мои проекты/ПЧЕЛОШЕРИНГ/Промпт.md",
+    "Мои проекты/Гравитон/Промпт.md",
+    "Мои проекты/Гравитон/123.md",
+    "Мои проекты/Гравитон",
+    "Домашняя.md",
     "Мои проекты/Про ламинат/Промпт.md",
     "Мои проекты/ПРОМЕТЕЙ/Промпт.md",
     "Мои проекты/Про ламинат/База ответов.md",
     "Мои проекты/Про ламинат/втреча 5.12.md",
     "Мои проекты/Код совершенства/Сверка.md",
-    "Мои проекты/ПЧЕЛОШЕРИНГ/Промпт.md",
     "Мои проекты/digitalexpats/Промпт без квиза eng.md",
-    "Домашняя.md",
     "Мои проекты/digitalexpats/Промпт без квиза.md",
     "Мои проекты/Код совершенства/Детализация.md",
     "Мои проекты/Всячина/муср.md",
     "Мои проекты/Код совершенства",
     "Мои проекты/Всячина/муср 2.md",
-    "Мои проекты/NoStress design/Промпт.md",
     "Мои проекты/ПЧЕЛОШЕРИНГ/Pchelosharing_about.md",
     "Мои проекты/Прозубы/втреча 2.12.md",
     "Мои проекты/VITA Climat/Демо-промпт 4o.md",
@@ -224,9 +269,6 @@
     "Мои проекты/ПЧЕЛОШЕРИНГ/1 встреча.md",
     "Мои проекты/ПЧЕЛОШЕРИНГ/муср.md",
     "Мои проекты/digitalexpats/ygugjfs.md",
-    "Мои проекты/digitalexpats/мусор.md",
-    "Мои проекты/ИИ фамилиа/Промпт 6.md",
-    "Мои проекты/Всячина/EMB кирилл.md",
     "Мои проекты/VITA Climat",
     "Мои проекты/ПРОМЕТЕЙ",
     "2025-10-28_13-52.png",
@@ -236,7 +278,6 @@
     "Мои проекты/HAKUNARENT/Без названия.canvas",
     "Pasted image 20251007153102.png",
     "Мои проекты/МГКА «Розенберг, Хазова и партнеры»",
-    "Мои проекты/digitalexpats",
     "Проекты Семёна/Рабочие/ИП Ануфриев Александр Васильевич/Схема переноса Процесса на аккаунт клиента.canvas",
     "Pasted image 20250618163346.png",
     "Проекты Семёна/Архив/Студио Фамилия/Схема работы бота.canvas",
