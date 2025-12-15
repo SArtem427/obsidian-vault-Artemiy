@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мои проекты/Про ламинат/Промпт.md",
-                "mode": "source",
-                "source": true
+                "file": "Домашняя.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Промпт"
+              "title": "Домашняя"
             }
           }
         ]
@@ -193,14 +193,13 @@
       "workspaces:Пространства": false,
       "bases:Создать новую базу": false,
       "homepage:Open homepage": false,
-      "sheet-plus:Создать Excel Файл": false,
-      "card-board:CardBoard": false
+      "sheet-plus:Создать Excel Файл": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Мои проекты/ПРОМЕТЕЙ/Промпт.md",
     "Мои проекты/Про ламинат/Промпт.md",
+    "Мои проекты/ПРОМЕТЕЙ/Промпт.md",
     "Мои проекты/Про ламинат/База ответов.md",
     "Мои проекты/Про ламинат/втреча 5.12.md",
     "Мои проекты/Код совершенства/Сверка.md",
