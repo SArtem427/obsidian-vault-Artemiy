@@ -1,6 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#44ff00",
   "nativeMenus": false,
   "cssTheme": "Origami",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showViewHeader": true,
+  "showRibbon": false
 }
