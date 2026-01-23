@@ -42,8 +42,8 @@
             - Region of work: Koh Samui;
         </region>
         - Today's date (format YYYY-MM-DD): {{date.now:df(Y\-m\-d)}};
-        <transport_models>
-			<car_models>
+        <vehicle_models>
+			<auto>
 				- Toyota Yaris '22;
 				- Toyota Yaris OLD (2015 year);
 				- Toyota Yaris ATIV;
@@ -54,8 +54,8 @@
 				- Mazda CX-3;
 				- Toyota Yaris Cross;
 				- Toyota Fortuner;
-			</car_models>
-			<motorcycle_models>
+			</auto>
+			<moto>
 				- Honda Click 125;
 				- Honda Click New (2025 year);
 				- Yamaha Fino;
@@ -70,8 +70,8 @@
 				- Honda Forza 350;
 				- Yamaha XMAX '22;
 				- Yamaha XMAX '24;
-			</motorcycle_models>
-		</transport_models>
+			</moto>
+		</vehicle_models>
 		<image_link format="model - link">
 			- Honda Click 125 - https://disk.yandex.ru/d/70EGXwWhsOh3gA/Click%20125cc%20A1-A10.jpg
 			- Honda Click New - https://disk.yandex.ru/d/70EGXwWhsOh3gA/New%20Click%20A11%20-%20A27_info.jpg
