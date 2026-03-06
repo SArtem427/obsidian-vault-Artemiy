@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мои проекты/M&M DOC/Промпт.md",
-                "mode": "source",
+                "file": "Домашняя.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Промпт"
+              "title": "Домашняя"
             }
           }
         ]
@@ -197,50 +197,14 @@
       "card-board:CardBoard": false
     }
   },
-  "floating": {
-    "id": "645c489935859d34",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b7e483cbc3aab86e",
-        "type": "window",
-        "children": [
-          {
-            "id": "1204ffe77fba5ca0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "85c50e262ed2e710",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Мои проекты/ПРОМЕТЕЙ/Без названия.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Без названия"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 30,
-        "width": 960,
-        "height": 1022,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e7a7b303c61786dc",
+  "active": "ca42e141b1fc23cb",
   "lastOpenFiles": [
+    "Домашняя.md",
+    "Мои проекты/Всячина/123.md",
+    "Мои проекты/ПРОМЕТЕЙ/Без названия.md",
+    "Мои проекты/M&M DOC/Промпт.md",
     "Мои проекты/TOO MEDMOST/Промпт.md",
     "Мои проекты/Всячина/Скелет промпта.md",
-    "Мои проекты/ПРОМЕТЕЙ/Без названия.md",
     "Мои проекты/ПРОМЕТЕЙ/Промпт изменённый.md",
     "Мои проекты/NoStress design/Промпт с капсулой исправленный.md",
     "Мои проекты/tourism ufa/Бот реактиватор.md",
@@ -260,11 +224,8 @@
     "Мои проекты/TOO MEDMOST",
     "Мои проекты/NoStress design/Промпт с капсулой 1.md",
     "Мои проекты/tourism ufa/Каналы.md",
-    "Домашняя.md",
     "Мои проекты/Про ламинат/Промпт №3.md",
     "Мои проекты/Про ламинат/Промпт №3 тест акк.md",
-    "Мои проекты/Про ламинат/Промпт №2.md",
-    "Мои проекты/Про ламинат/Промпт.md",
     "Мои проекты/M&M DOC",
     "Мои проекты/ЕСИС",
     "Мои проекты/Housebookae",
